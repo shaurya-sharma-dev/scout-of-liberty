@@ -1,7 +1,9 @@
 # Scout of Liberty
-Scout of Liberty is a 2D retro-style platformer game made using Python. It is set in the 1770s during the American Revolution. The player is a fictional scout for the Sons of Liberty. Scout of Liberty was made for Windows and will not work on other operating systems.
+Scout of Liberty is a 2D retro-style platformer game made using Python. It is set in the 1770s during the American Revolution. The player is a fictional scout for the Sons of Liberty. Scout of Liberty was made for Windows and may not work on other operating systems.
 
 All disclosures for 3rd-party libraries and assets used in this game are located in the DISCLOSURE.md file.
+
+All `*.py` files and the `pyscript-config.json` file located in this repository are licensed under the MIT license found in `LICENSE.md` in the repository root.
 
 ## Dependencies
 The Python package dependencies are stated in the `requirements.txt` file. pygame-ce also requires the Simple DirectMedia Layer (SDL) Library (which itself requires freetype to render fonts).
