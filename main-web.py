@@ -95,7 +95,7 @@ INSTRUCTIONS_TEXT = [
     # Preamble/Introduction
     "Scout of Liberty is a 2D platformer game made in Python. It is set in the 1770s",
     "during the American Revolution. The player is a fictional member of the Sons of Liberty",
-    "who acts as a scout for the group. The game features two engaging levels:",
+    "who acts as a scout for the group. The game features four engaging levels:",
     "",
 
     # Controls
