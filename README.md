@@ -1,4 +1,5 @@
 # Scout of Liberty
+<img src="https://raw.githubusercontent.com/CreativeCoder-GitHub/scout-of-liberty/refs/heads/main/demo-img.png" width="45%" />
 Scout of Liberty is a 2D retro-style platformer game made using Python. It is set in the 1770s during the American Revolution. The player is a fictional scout for the Sons of Liberty. Scout of Liberty was made for Windows and may not work on other operating systems. However, there is a web version you can play right now at https://creativecoder-github.github.io/scout-of-liberty/.
 
 All disclosures for 3rd-party libraries and assets used in this game are located in the DISCLOSURE.md file.
