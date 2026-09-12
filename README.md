@@ -7,14 +7,7 @@ All disclosures for 3rd-party libraries and assets used in this game are located
 All `*.py` files and the `pyscript-config.json` file located in this repository are licensed under the MIT license found in `LICENSE.md` in the repository root.
 
 ## Dependencies
-The Python package dependencies are stated in the `requirements.txt` file. pygame-ce also requires the Simple DirectMedia Layer (SDL) Library (which itself requires freetype to render fonts).
-
-<b>SDL and FreeType Dependencies</b>
-- SDL >= 2.0.14
-- SDL_mixer >= 2.0.4
-- SDL_image >= 2.0.4
-- SDL_ttf >= 2.0.15
-- FreeType >= 2.9.1
+All dependencies are in the `requirements.txt` file.
 
 ## Quickstart for Desktop Version
 1. Download Python 3.12, if you don't already have it. (Make sure it is the correct version!)
